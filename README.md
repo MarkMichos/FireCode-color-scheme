@@ -1,7 +1,7 @@
-firecode-theme
+FireCode Theme
 ==============
 
-a color-theme for Sublime Text 2 that matches the Phoenix Dark Blue Sublime theme
+a color-scheme for Sublime Text
 
 Screenshots:
 
