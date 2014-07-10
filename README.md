@@ -1,7 +1,7 @@
-FireCode Theme
-==============
+FireCode Color Scheme
+=====================
 
-a color-scheme for Sublime Text
+a color-scheme for dark Sublime Text
 
 Screenshots:
 
