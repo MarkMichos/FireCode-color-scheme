@@ -102,6 +102,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Accessor</string>
+            <key>scope</key>
+            <string>punctuation.accessor</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f63249</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Storage</string>
             <key>scope</key>
             <string>storage</string>
